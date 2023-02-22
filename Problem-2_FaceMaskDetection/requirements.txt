@@ -1,0 +1,9 @@
+keras
+tensorflow
+cv2
+sklearn
+imutils
+numpy
+seaborn
+matplotlib.pyplot
+matplotlib.image
